@@ -1,9 +1,10 @@
---> MUESTRA INFORMACION DE LOS GRUPOS DE VOLUMENES
+#--> MUESTRA INFORMACION DE LOS GRUPOS DE VOLUMENES
+´´´
 [root@rhel8 ~]# vgs
   VG        #PV #LV #SN Attr   VSize  VFree
   almalinux   1   2   0 wz--n- <7.00g    0 
 [root@rhel8 ~]#
-
+´´´
 
 --> MUESTRA INFORMACION DE LOS VOLUMENES LOGICOS
 [root@rhel8 ~]# lvs
